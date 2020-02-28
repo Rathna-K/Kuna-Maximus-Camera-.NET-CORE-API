@@ -4,6 +4,7 @@ API for downloading videos from Kuna Maximus.
 # Usage: 
 All methods need to be Awaited. 
 
+```
 Dim kunaapi As New KunaAPI.KunaAPI(username, password)
 kunaapi.authenticate
 kunaapi.update 'will update all cameras and their info
@@ -15,5 +16,5 @@ for each c in camera
         dlink = kunaapi.getdownloadlink(recording)
     next
 next
-
+```
 credit to python developer:  marthoc/pykuna
