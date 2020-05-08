@@ -17,6 +17,7 @@
         public double[] coordinates { get; set; }
     }
 
+
     public class Camera
     {
         public string url { get; set; }
