@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XoHD6SeIFEUC7xruo3pUKzepy7qfucQDyHhe8JdBzMaoYrAGzUofnprhh3ZXunB+3vQisiJOsJpiJtfhcwKhBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rathna\\Source\\Repos\\Kuna-Maximus-Camera-.NET-CORE-API\\KunaAPI\\KunaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rathna\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+C:\Users\Rathna\Source\Repos\Kuna-Maximus-Camera-.NET-CORE-API\KunaAPI\bin\Debug\netcoreapp3.1\KunaAPI.deps.json
+C:\Users\Rathna\Source\Repos\Kuna-Maximus-Camera-.NET-CORE-API\KunaAPI\bin\Debug\netcoreapp3.1\KunaAPI.dll
+C:\Users\Rathna\Source\Repos\Kuna-Maximus-Camera-.NET-CORE-API\KunaAPI\obj\Debug\netcoreapp3.1\KunaAPI.AssemblyInfoInputs.cache
+C:\Users\Rathna\Source\Repos\Kuna-Maximus-Camera-.NET-CORE-API\KunaAPI\obj\Debug\netcoreapp3.1\KunaAPI.AssemblyInfo.cs
